@@ -18,7 +18,13 @@ h1 {
 }
 
 p {
+    margin-top: -30px;
     text-align: center;
+}
+
+.copyright {
+    margin-top: 50px;
+    font-size: 15px;;
 }
 
 button {
@@ -29,4 +35,5 @@ button {
     background-color: aqua;
     border-radius: 10px;
     margin: 30px auto; /* Centralizar os botões*/
+    cursor: pointer;
 }
